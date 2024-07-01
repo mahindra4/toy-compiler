@@ -1,0 +1,57 @@
+Datatype : int
+identifier : i
+Value : 4
+Value : 5
+Value : 3
+operator : *
+operator : +
+Assignment : =
+
+Datatype : int
+identifier : j
+identifier : x
+Assignment : =
+
+Datatype : int
+identifier : func
+Datatype : int
+identifier : pu
+Datatype : char *
+identifier : x
+above function arguments were passed
+
+identifier : x
+Value : 0
+operator : >
+identifier : i
+Value : 1
+identifier : a
+identifier : cc
+If Condition Ends
+
+identifier : i
+Value : 10
+operator : <
+identifier : hemlo
+identifier : bhoi
+While Loop Ends
+
+identifier : sevlon
+identifier : bhoi
+above function was defined
+
+
+Datatype : int
+identifier : dun
+identifier : function
+Value : 0
+Datatype : int
+identifier : dont
+Value : 1
+Assignment : =
+Value : 1
+Return statement
+
+above function was defined
+
+

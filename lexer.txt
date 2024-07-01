@@ -1,0 +1,77 @@
+data type : int
+identifier : i
+assign : =
+left round bracket : (
+num : 4
+plus : +
+num : 5
+mul : *
+num : 3
+right round bracket: )
+semi colon : ;
+data type : int
+identifier : j
+assign : =
+identifier : x
+semi colon : ;
+data type : int
+identifier : func
+left round bracket : (
+data type : int
+identifier : pu
+comma : ,
+data type : char*
+identifier : x
+right round bracket: )
+left flower bracket : {
+if_stmt : if
+left round bracket : (
+identifier : x
+greater than : >
+num : 0
+right round bracket: )
+left flower bracket : {
+identifier : i
+assign : =
+num : 1
+semi colon : ;
+identifier : a
+assign : =
+identifier : cc
+semi colon : ;
+right flower bracket : }
+while_stmt : while
+left round bracket : (
+identifier : i
+less than : <
+num : 10
+right round bracket: )
+left flower bracket : {
+identifier : hemlo
+assign : =
+identifier : bhoi
+semi colon : ;
+right flower bracket : }
+identifier : sevlon
+assign : =
+identifier : bhoi
+semi colon : ;
+right flower bracket : }
+data type : int
+identifier : dun
+left round bracket : (
+right round bracket: )
+left flower bracket : {
+identifier : function
+assign : =
+num : 0
+semi colon : ;
+data type : int
+identifier : dont
+assign : =
+num : 1
+semi colon : ;
+return_stmt : return
+num : 1
+semi colon : ;
+right flower bracket : }
