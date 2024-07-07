@@ -30,17 +30,4 @@ This project is a toy compiler implemented using Flex and Bison. It can tokenize
 1. **Run the compiler:**
    ```bash
    ./compiler
-## Sample Test Files
-
-### sample1.cu
-
-- **Description:** This is an example test file used for testing the toy compiler.
-- **Usage:** It contains sample code snippets written in the custom language defined by the BNF grammar rules in `cucu.y`.
-
-### sample2.cu
-
-- **Description:** Another test file for the toy compiler.
-- **Usage:** Similar to `sample1.cu`, it contains additional code examples to validate the compiler's functionality.
-
-These test files are crucial for ensuring the correctness and functionality of the toy compiler across various inputs and scenarios.
 
