@@ -44,5 +44,5 @@ This project is a toy compiler implemented using Flex and Bison. It can tokenize
 
 These test files are crucial for ensuring the correctness and functionality of the toy compiler across various inputs and scenarios.
 
-###output for the test file Sample1.cu will be present in lexer.txt and parser.txt
+### output for the test file Sample1.cu will be present in lexer.txt and parser.txt
 
